@@ -1,0 +1,8 @@
+{
+  "name": "pust-test",
+  "app_id": "",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
+}
